@@ -1,4 +1,4 @@
-# mnist
+# Processing Handwritten digit (mnist dataset)
 Learn mnist on IBM Cloud platform
 
 A beginner’s illustration on processing handwritten digit dataset (based on MNIST) using Python programming language within IBM Watson Studio (a.k.a Watson Data Science Experience, DSX) on IBM Cloud using a few approaches:
