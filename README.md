@@ -1,7 +1,7 @@
 # mnist
 Learn mnist on IBM Cloud platform
 
-A beginner’s illustration on processing MNIST handwritten digit dataset using Python programming language within IBM Watson Studio (a.k.a Watson Data Science Experience, DSX) on IBM Cloud using a few approaches:
+A beginner’s illustration on processing handwritten digit dataset (based on MNIST) using Python programming language within IBM Watson Studio (a.k.a Watson Data Science Experience, DSX) on IBM Cloud using a few approaches:
 1. Plain Python
 2. IBM Neural Network Modeler + Experiment (beta)
 3. Keras base high level deep learning library
